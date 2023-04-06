@@ -254,7 +254,7 @@ if BOT_TOKEN21:
         bot_token=BOT_TOKEN21,
         plugins=dict(root="LegendGirl.LegendBoy"),
     )
-    print("LegendSpam : Bot token 12 Found")
+    print("LegendSpam : Bot token 21 Found")
 else:
     Client21 = None
 
