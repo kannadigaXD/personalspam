@@ -162,7 +162,7 @@ async def draid(Legend: Client, e: Message):
 )
 async def rllist(Legend: Client, e: Message):
     global USERS
-    _reply = "**Raid users list - Legend Bot Spam** \n\n"
+    _reply = "**Raid users list - AgoraBot Spam** \n\n"
     if len(USERS) > 0:
         for x in USERS:
             try:
