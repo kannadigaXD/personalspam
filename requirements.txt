@@ -5,5 +5,5 @@ cryptg
 heroku3
 gitpython
 tgcrypto
-pyLegendBS
+LegendBS
 async-eval==0.1.11
