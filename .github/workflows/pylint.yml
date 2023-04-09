@@ -30,6 +30,6 @@ jobs:
           commit_message: 'legend fixed'
           commit_options: '--no-verify'
           repository: .
-          commit_user_name: kannadigaXD
-          commit_user_email: kannadigaXD@gmail.com
-          commit_author: kannadigaXD<KannadigaXD@gmail.com>
+          commit_user_name: LEGEND-AI
+          commit_user_email: Krishna045Jaiswal@gmail.com
+          commit_author: LEGEND-AI<Krishna045Jaiswal@gmail.com>
