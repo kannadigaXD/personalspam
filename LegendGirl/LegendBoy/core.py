@@ -22,7 +22,7 @@ async def ping(_, e: Message):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await a.delete()
-    ping_temp = f"𝗧𝗘𝗔𝗠 𝗔𝗚𝗢𝗥𝗔 𝗦𝗣𝗔𝗠 𝗕𝗢𝗧𝗦\n\n👀 𝘿 𝘼 𝘿 𝘿 𝙔  👅: {ms}\n👀 𝙇 𝙄 𝙁 𝙏  🥵 𝙈 𝙀: {uptime}"
+    ping_temp = f"𝙆 𝙄 𝙈 𝙅 𝙄 𝙆 𝙊 𝙄 𝙉 🦋 𝙎 𝙐 𝙋 𝙀 𝙍 𝘽 𝙊 𝙏\n\n👀 𝘿 𝘼 𝘿 𝘿 𝙔  👅: {ms}\n👀 𝙇 𝙄 𝙁 𝙏  🥵 𝙈 𝙀: {uptime}"
     for i in range(1, 26):
         lol = globals()[f"Client{i}"]
         if lol is not None:
