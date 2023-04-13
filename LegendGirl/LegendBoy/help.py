@@ -9,7 +9,7 @@ from ..core.clients import *
 
 @Client.on_message(filters.command(["help"], prefixes=HANDLER))
 async def help(Legend: Client, message: Message):
-    HELP_MSG = "Help Menu Powered By @kannadigaxd"
+    HELP_MSG = "Help Menu Powered By @kimjikoinsupport"
     if ".jpg" in HELP_PIC or ".png" in HELP_PIC:
         await Legend.send_photo(
             message.chat.id,
